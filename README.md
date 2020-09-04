@@ -19,4 +19,4 @@ _________________________________________________________________
 Link: https://www.kaggle.com/athirakarthe/sentiment-analysis?scriptVersionId=41986086
 <br>This is the link to my kaggle kernel where I have documented the training process in brief.<br>
 The model has been used to see the recent sentiment among the twitter population for a given movie or political affair or any hashtag for that matter. The following shows the gui for this usecase.
-<br><img src="Images/screenshot.png" width=400>
+<br><img src="Images/Screenshot.png" width=400>
