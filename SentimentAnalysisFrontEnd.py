@@ -43,10 +43,10 @@ def clean_text(list_of_tweets):
   return count,clean_texts
 
 def Analyse(text,date):
-  consumer_key= 'kMW0xqTbbK0OaASX8hWj4vSmM'
-  consumer_secret= 'nnBerO8NkPBVaPXM3xkntuAV0ZXIeksyv0V0bnOA6JKtL1vMgE'
-  access_token= '1275779687323590656-YGIfDnzXVTsR1SfFIbIJUdgENMkcb2'
-  access_token_secret= 'MkCPPmOURytI4clu0RmrPagcdcjsRznqQx3y12gUwJhKB'
+  consumer_key= '@@@@'
+  consumer_secret= '####'
+  access_token= '++++'
+  access_token_secret= '????'
   auth = tw.OAuthHandler(consumer_key, consumer_secret)
   auth.set_access_token(access_token, access_token_secret)
   api = tw.API(auth, wait_on_rate_limit=True)
